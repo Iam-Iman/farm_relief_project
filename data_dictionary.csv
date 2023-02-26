@@ -1,0 +1,16 @@
+Type,Length,Description
+object,59,"The upper and lower ages, grouped as '18-25', '26-35', '35-49' and '50 and above'."
+int64,59,An individual's age between 18 and above 50.
+object,59,The social constructed identity of men and women. Can be 'Male' or 'Female'.
+object,59,The type of profession.
+object,59,The legally defined marital state.
+float64,59,"The money received on a regular basis, in Nigerian Naira(₦)."
+object,59,"The combined income per household on a monthly basis, expressed in subgroups. Currency in Nigerian Naira(₦)."
+object,59,The place of residence of the participant within Nigeria.
+object,59,The type of mobile device(s) the participant uses.
+object,59,The mode of delivery of farm produce preferred.
+object,59,"An individual who owns a farm or sells produce. 'Yes' or 'No', indicates if the participant is farmer or not."
+object,59,"Crops and other agricultural products(including livestock, eggs .etc) sold by farmers."
+object,59,An online platform where consumers and farmers can trade.
+object,59,Knowledge of other competitive online farmer's platform.
+object,59,Features that the user would like to see on a website or application.
